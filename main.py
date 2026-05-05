@@ -1,2 +1,2 @@
 def main():
-    print("Version A du programme")
+    print("Version finale A + B")
